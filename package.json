@@ -1,0 +1,10 @@
+{
+  "name": "xx-nodejs-sandbox",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon -q ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
